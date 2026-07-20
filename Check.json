@@ -201,5 +201,12 @@
     "DEVICE": "PC/Mobile | Unknown OS | Browser: Chrome | Canvas Hash: 2b4341f1",
     "SCREEN_GPU": "Res: 450x975 | GPU: Adreno (TM) 610 | Plugins: 0",
     "NETWORK": "Mạng: Online | VPN: Có | Pin: N/A"
+  },
+  {
+    "SESSION": "Run #30 | 2026-07-20 23:26:30",
+    "TARGET": "[220-2] => beautyandhealth.com.mx (Google Redirect)",
+    "DEVICE": "PC/Mobile | Unknown OS | Browser: Chrome | Canvas Hash: 2b4341f1",
+    "SCREEN_GPU": "Res: 450x975 | GPU: Adreno (TM) 610 | Plugins: 0",
+    "NETWORK": "Mạng: Online | VPN: Có | Pin: N/A"
   }
 ]
