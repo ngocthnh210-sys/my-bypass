@@ -173,5 +173,12 @@
     "DEVICE": "PC/Mobile | Unknown OS | Browser: Chrome | Canvas Hash: 2a82029a",
     "SCREEN_GPU": "Res: 386x836 | GPU: Adreno (TM) 610 | Plugins: 0",
     "NETWORK": "Mạng: Online | VPN: Có | Pin: N/A"
+  },
+  {
+    "SESSION": "Run #26 | 2026-07-20 16:30:02",
+    "TARGET": "[200-2] => gromedia.co.in (Google Redirect)",
+    "DEVICE": "PC/Mobile | Unknown OS | Browser: Chrome | Canvas Hash: 5c857fcd",
+    "SCREEN_GPU": "Res: 386x836 | GPU: Adreno (TM) 610 | Plugins: 0",
+    "NETWORK": "Mạng: Online | VPN: Có | Pin: N/A"
   }
 ]
