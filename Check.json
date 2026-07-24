@@ -446,5 +446,12 @@
     "DEVICE": "PC/Mobile | Unknown OS | Browser: Chrome | Canvas Hash: 3cb8fb2f",
     "SCREEN_GPU": "Res: 384x832 | GPU: Adreno (TM) 610, | Plugins: 0",
     "NETWORK": "Mạng: Online | VPN: Có | Pin: N/A"
+  },
+  {
+    "SESSION": "Run #65 | 2026-07-24 23:22:50",
+    "TARGET": "[134-2] => jeger88.me (Google Redirect)",
+    "DEVICE": "PC/Mobile | Unknown OS | Browser: Chrome | Canvas Hash: 3cb8fb2f",
+    "SCREEN_GPU": "Res: 384x832 | GPU: Adreno (TM) 610, | Plugins: 0",
+    "NETWORK": "Mạng: Online | VPN: Có | Pin: N/A"
   }
 ]
